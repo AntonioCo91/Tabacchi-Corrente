@@ -101,3 +101,22 @@ nav li {
     text-align: center;
   }
 }
+
+footer {
+  background: #dec7a6;
+  padding: 40px 20px;
+  text-align: center;
+}
+.contact-button {
+  display: inline-block;
+  background: #3b2c1a;
+  color: white;
+  padding: 12px 25px;
+  border-radius: 30px;
+  text-decoration: none;
+  font-weight: bold;
+  transition: background 0.3s ease;
+}
+.contact-button:hover {
+  background: #5a422d;
+}
